@@ -58,10 +58,10 @@
 </apex:page>
 //apxc
 
-public class CalculatorController {
+public class CalculatorController1 {
     public String result { get; set; }
 
-    public CalculatorController() {
-        result = '0';
-    }
+    public CalculatorController1() {
+        result = '0';
+    }
 }
